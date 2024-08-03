@@ -6,7 +6,7 @@ pub const HTML_ELEMENTS: &[&str] = &[
     "<h2>Heading 2</h2>",
     "<a href='#'>Link Text</a>",
     "<strong>Bold Text</strong>",
-    "<em>Italic Text</em>",
+    "<li>Italic Text</li>",
     "<u>Underlined Text</u>",
     "<s>Strikethrough Text</s>",
     "<code>Code Text</code>",
